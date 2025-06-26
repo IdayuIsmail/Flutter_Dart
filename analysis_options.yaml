@@ -1,0 +1,5 @@
+include: package:lint/package.yaml
+
+analyzer:
+  errors:
+    todo: info
